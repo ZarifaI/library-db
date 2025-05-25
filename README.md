@@ -23,7 +23,7 @@ It supports books, users, authors, and loan tracking.
 ## 📂 Sample SQL
 
 The full schema and sample data is in:
-libray_schema.sql
+libray_schema.pgsql
 
 ## 🛠️ Technologies
 
